@@ -13,3 +13,4 @@ __pycache__/
 Thumbs.db                             # Windows
 
 # (No conda env folder listed—env lives outside this repo)
+.DS_Store
