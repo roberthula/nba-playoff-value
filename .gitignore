@@ -1,0 +1,15 @@
+# --- Data files ----------------------------------------------------------
+/data/raw/
+/data/processed/
+
+# --- Jupyter checkpoints -------------------------------------------------
+.ipynb_checkpoints/
+
+# --- Python byte-code ----------------------------------------------------
+__pycache__/
+
+# --- OS cruft ------------------------------------------------------------
+.DS_Store                             # macOS
+Thumbs.db                             # Windows
+
+# (No conda env folder listed—env lives outside this repo)
